@@ -77,7 +77,7 @@
       "CHARACTER_OCTET_LENGTH": 400,
       "CHARACTER_SET_NAME": "utf8mb4",
       "COLLATION_NAME": "utf8mb4_0900_ai_ci",
-      "COLUMN_COMMENT": "",
+      "COLUMN_COMMENT": "name of th eperson",
       "COLUMN_DEFAULT": null,
       "COLUMN_KEY": "",
       "COLUMN_NAME": "name",
@@ -131,7 +131,7 @@
       "MAX_DATA_LENGTH": 0,
       "obj": "persons",
       "TABLE_COLLATION": "utf8mb4_0900_ai_ci",
-      "TABLE_COMMENT": "testing table",
+      "TABLE_COMMENT": "",
       "type": "TABLE"
     }
   ],
