@@ -1,0 +1,6 @@
+CREATE  FUNCTION `test`(a INT, b INT) RETURNS int
+    DETERMINISTIC
+    COMMENT 'tets comment'
+BEGIN
+  RETURN a + b;
+END
