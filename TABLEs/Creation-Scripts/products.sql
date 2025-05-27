@@ -1,0 +1,5 @@
+CREATE TABLE `products` (
+  `idproducts` int NOT NULL,
+  `productscol` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`idproducts`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
