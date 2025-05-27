@@ -131,7 +131,7 @@
       "MAX_DATA_LENGTH": 0,
       "obj": "persons",
       "TABLE_COLLATION": "utf8mb4_0900_ai_ci",
-      "TABLE_COMMENT": "",
+      "TABLE_COMMENT": "testing table",
       "type": "TABLE"
     }
   ],
